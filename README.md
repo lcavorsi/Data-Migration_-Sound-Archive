@@ -23,4 +23,4 @@ Vocabulary:
 - SIP tool is an in-house built platform to preserve sound items through the Submission of Information Packages.
 
 
-
+The .ppt file available in the main folder has been created in Power Point 365. In order to activate slides' zoom animations, it is recommended that the file be opened with the same version of the software. 
